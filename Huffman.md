@@ -9,7 +9,8 @@
 3. 由二叉树生成每个字符对应的非前缀二进制编码。
 
 该过程体现在代码中如下所示：
-<code>
+
+```
 
 	void Huffman_apply(Huffman *h) {
 
@@ -20,7 +21,7 @@
     	Huffman_generate_codes(h);
 	}
 
-</code>
+```
 
 
 ## 压缩文件格式
@@ -31,7 +32,8 @@
 
 
 ## 内部实现
-1. multimap有序存储字符及其频度 
+
+- multimap有序存储字符及其频度 
 
 
 ## 问题
