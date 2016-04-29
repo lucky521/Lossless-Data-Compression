@@ -3,6 +3,21 @@ Lossless-Data-Compression
 
 Lossless Compression Tools 
 
+
+# Usage
+
+```
+# compress string
+$ tool-binary -c -t algorithm-name -s "string" 
+# decompress string
+$ tool-binary -x -t algorithm-name -s "string"
+# compress file
+$ tool-binary -c -t algorithm-name -f targetfilename 
+# decompress file
+$ tool-binary -x -t algorithm-name -f targetfilename
+```
+
+
 # 经典无损压缩算法
 - [Huffman](https://github.com/lucky521/Lossless-Data-Compression/blob/master/Huffman.md)
 - [LZW](https://github.com/lucky521/Lossless-Data-Compression/blob/master/LZW.md)
