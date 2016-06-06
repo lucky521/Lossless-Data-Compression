@@ -1,7 +1,8 @@
 Lossless-Data-Compression
 =========================
 
-Lossless Compression Tools 
+Lossless Compression Tools  
+[![Build Status](https://travis-ci.org/lucky521/Lossless-Data-Compression.svg?branch=master)](https://travis-ci.org/lucky521/Lossless-Data-Compression)
 
 
 # Usage
