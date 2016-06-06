@@ -1,4 +1,5 @@
 language: cpp
 
 before_install:
+    - cd ./src
     - make test
